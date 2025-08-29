@@ -65,7 +65,7 @@ Escribe el nombre de la carpeta del proyecto en la barra de direcciones.
 
 👉 Ejemplo:http://localhost/SC502-1C2025-GRUPO7
 
-4.Ingresa a la carpeta proyecto/app para acceder al sistema.
+Ingresa a la carpeta proyecto/app para acceder al sistema.
 
 La ruta final puede verse así:
 
