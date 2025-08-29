@@ -1,6 +1,4 @@
 # PHP-SQL
-
-# SC502-1C2025-GRUPO7  
 📚 Sistema de gestión de cursos y estudiantes (MVC en PHP)
 
 Este proyecto consiste en un sistema web desarrollado en **PHP** bajo el patrón **MVC**, diseñado para la gestión de cursos y estudiantes dentro de una institución académica.  
